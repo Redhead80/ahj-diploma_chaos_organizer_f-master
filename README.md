@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/6tv4vvw98qlvkyq3/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-diploma-chaos-organizer-f/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/8of3yk4g88o3345c/branch/main?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-diploma-chaos-organizer-f-master/branch/main)
 
 #### Deployment:  <a href="https://sergius92739.github.io/ahj-diploma_chaos_organizer_f/">Github Pages</a>
 
