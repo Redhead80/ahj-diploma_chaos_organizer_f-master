@@ -4,7 +4,7 @@
 
 #### Backend:  <a href="https://github.com/Redhead80/ahj-diploma_chaos_organizer_b-master">Repository</a>
 
-#### Server:  <a href="https://ahj-chaos-organizer-sergius.herokuapp.com/">Heroku</a>
+#### Server:  <a href="https://ahj-diploma-haos-organaizer.herokuapp.com/">Heroku</a>
 
 ---
 
