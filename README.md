@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/8of3yk4g88o3345c/branch/main?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-diploma-chaos-organizer-f-master/branch/main)
 
-#### Deployment:  <a href="https://sergius92739.github.io/ahj-diploma_chaos_organizer_f/">Github Pages</a>
+#### Deployment:  <a href="https://redhead80.github.io/ahj-diploma_chaos_organizer_f-master/">Github Pages</a>
 
 #### Backend:  <a href="https://github.com/Redhead80/ahj-diploma_chaos_organizer_b-master">Repository</a>
 
