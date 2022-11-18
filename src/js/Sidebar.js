@@ -10,7 +10,7 @@ export default class Sidebar {
     this.ws = options.ws;
     this.activeChatID = options.dialogID;
     this.userID = options.user;
-    this.baseURL = ' https://ahj-diploma-haos-organaizer.herokuapp.com';
+    this.baseURL = 'https://ahj-diploma-haos-organaizer.herokuapp.com';
 
     this.onMessagesHeaderBtnsClick = this.onMessagesHeaderBtnsClick.bind(this);
     this.onBackBtnClick = this.onBackBtnClick.bind(this);
